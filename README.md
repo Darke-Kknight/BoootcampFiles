@@ -1,4 +1,4 @@
-# BootcampProjectFiles - CodeRefcatoring for Horiseon
+# CodeRefactoring for Horiseon
 
 ## Description 
 
@@ -6,10 +6,7 @@ The project was to modify or add to the starter code whilst following agile proj
 
 Please see the link to the deployed application below.
 
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[the VSCode repository](https://github.com/microsoft/vscode).
-
+[Horiseon CodeRefactoring](https://darke-kknight.github.io/BootcampProjectFiles/).
 
 ## Table of Contents (Optional)
 
